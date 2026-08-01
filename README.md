@@ -62,11 +62,10 @@ Records: 9,994
 - DAX
 - Business Analysis
 
-## Excel Dashboard
-
-<img width="1816" height="590" alt="image" src="https://github.com/user-attachments/assets/00968e86-f9e2-4a9a-888f-b4c6d491c7c5" />
-
-
 ## Power BI Dashboard
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5e748c0-e254-4236-9b46-5b44ea956dec" />
+
+## Excel Dashboard
+
+<img width="1816" height="590" alt="image" src="https://github.com/user-attachments/assets/00968e86-f9e2-4a9a-888f-b4c6d491c7c5" />
